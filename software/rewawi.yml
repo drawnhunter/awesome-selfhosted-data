@@ -1,0 +1,11 @@
+name: ReWaWi
+website_url: https://github.com/drawnhunter/PraxiOS---ReWaWi
+source_code_url: https://github.com/drawnhunter/PraxiOS---ReWaWi
+description: "Invoicing and inventory management for German small businesses: GoBD-compliant invoices, XRechnung/ZUGFeRD e-invoicing, DATEV export, stock with barcode scanning."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management
